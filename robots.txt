@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Allow: /
+
+Sitemap: http://starlight-princess.mouplands.org/sitemap.xml
